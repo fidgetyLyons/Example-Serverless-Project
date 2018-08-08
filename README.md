@@ -14,8 +14,3 @@ Deploy a Serverless project basic example
   * sls deploy  
 ---
 
-U: DocMakerUser
-Access key ID : AKIAILIZ24SCMXA26NTQ
-Secret access key : RwnsPyluV6w8OsXOPbWqyGx9bSF/L+/EyTs2dF0E
-
----
